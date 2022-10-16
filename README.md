@@ -19,4 +19,6 @@ $ sudo apt install nodejs npm
 # First Expo Project
 ``` $ expo init DoneWithIt ```
 Choose Blank Managed WorkFlow Template
+![Screenshot from 2022-10-16 03-18-48](https://user-images.githubusercontent.com/96383368/196012170-13dbc762-9940-47e7-9baf-97ad49cef388.png)
+
    
